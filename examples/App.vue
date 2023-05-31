@@ -176,12 +176,12 @@
                 </div>
             </ss-card>
         </a>
-        <a target="_blank" href="https://bebebe.be/">
+        <a target="_blank" href="https://blog.stv.lol/">
             <ss-card style="margin: 15px 15px 0px 15px;">
                 <div style="display: flex;align-items: center;">
-                    <img src="https://s2.loli.net/2023/05/17/Tmed8LkXysfSQ7U.png" class="card-2" style="width: 3rem;height: 3rem;border-radius: 100%;">
+                    <img src="https://s2.loli.net/2023/05/29/NXUKtpGBlZoij4T.png" class="card-2" style="width: 3rem;height: 3rem;border-radius: 100%;">
                     <div style="display: flex;flex-direction: column;margin-left: 20px;">
-                        <span style="font-weight: bold;color: var(--color-main);">哔哔哔哔</span>
+                        <span style="font-weight: bold;color: var(--color-main);">Steven Lynn's Blog</span>
                         <span style="font-size:0.8rem;color: var(--colr-font-2);">Steven Lynn的个人博客</span>
                     </div>
                 </div>
